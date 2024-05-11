@@ -1,9 +1,5 @@
 {
   "name": "nollywood_compass",
-  "engines": {
-    "npm": "10.2.4",
-    "node": "21.5.0"
-    },
   "version": "1.0.0",
   "description": "Nollywood Compass serves as a guide to audience of Nollywood movies to search for Nollywood movies that match their passions. Users can, in form of blogs, share their impressions about a Nollywood movie, actor or actress.",
   "scripts": {
